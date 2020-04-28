@@ -1,0 +1,24 @@
+(DR: Damage Reduction)
+(DoT: Damage over Time)
+
+Fortify: + %All DR
+Onslaught: + %Attack/%Cast/%Move Speed
+Phasing: + %Physical DR
+Conflux: + %Status Chance
+	Chilling (Freeze)/Burning (Burn)/Shocking (Shock)/Venemous(Posion)
+Chill: - %Attack/%Cast/%Move Speed
+Frostlock: Stunned, Cold DoT
+Charged: + %All Damage Taken
+Scorched: - Flat Elemental Armor
+Brittle: %Chance to take a burst of damage when hit (pseudo-crit)
+Sapped: - %All Damage Dealt
+Unholy Might: + Flat Magic Damage, %Magic Damage
+Punished: Grant + %Physical Damage, %Attack Speed to attacker on hit
+Endurance Charge: + %All DR
+Frenzy Charge: + %Attack/%Cast Speed, + %All Damage Dealt
+Power Charge: + %Critical Chance, %Critical Damage
+Anger: + Flat Fire Damage Aura
+Clarity: + Flat Mana/s Aura
+Determination: + %Physical Armor Aura
+Grace: + %Dodge Aura
+

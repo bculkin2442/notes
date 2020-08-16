@@ -1,0 +1,253 @@
+Amulets I
+	Coral Amulet: flat HP/s
+	Paua Amulet: flat Mana/s
+	Amber Amulet: flat Strength
+	Jade Amulet: flat Dexterity
+	Lapis Amulet: flat Focus
+	Gold Amulet: %Magic Find
+	Agate Amulet: flat Strength/Focus
+	Citrine Amulet: flat Strength/Dexterity
+	Turquoise Amulet: flat Dexterity/Focus
+	Onyx Amulet: flat All Attributes
+	Marble Amulet: % HP/s
+	Blue Pearl Amulet: %Mana/s
+	Jet Amulet: %Elemental Armor
+	Ruby Amulet: %Fire Armor
+
+	Bloodstone Amulet: flat Vitality
+
+Amulets II
+	Diamond Amulet: flat All attributes
+	Jade Amulet: %Poison Damage Reduction
+	Ruby Amulet: %Fire Damage Reduction
+	Sapphire Amulet: %Cold Damage Reduction
+	Topaz Amulet: %Lightning Damage Reduction
+
+Talismans
+	Ashscale Talisman: %Fire Damage
+	Avian Twins Talisman: -1 %Elemental Armor, + 1 %Elemental Armor
+	Black Maw Talisman: Always 1+ socket
+	Bonespire Talisman: %Max Mana
+	Bleakrib Talisman: %Physical Damage
+	Chrysalis Talisman: %Magic Item Damage
+	Clutching Talisman: %All Armor
+	Deadhand Talisman: %Poison Damage
+	Deep One Talisman: %Cold Damage
+	Fangjaw Talisman: %Max HP
+	Hexclaw Talisman: %Critical Chance
+	Lone Antler Talisman: %Lightning Damage
+	Longtooth Talisman: %Physical Damage Reduction
+	Mandible Talisman: %Attack/Cast Speed
+	Monkey Paw Talisman: %Charge Rate
+	Primal Skull Talisman: %HP/s
+	Rothead Talisman: %Fishing Luck
+	Rotfeather Talisman: %Physical Damage
+	Spinefuse Talisman: %Gold Find
+	Splitnewt Talisman: %Status Effect (Burn/Poison/etc) Chance
+	Three Rat Talisman: %All Attributes
+	Wereclaw Talisman: %Critical Damage
+	Writhing Talisman: %All Damage
+
+Rings I
+	Coral Ring: Flat HP
+	Iron Ring: Flat Physical damage
+	Paua Ring: Flat Mana
+	Unset Ring: Always 1+ socket
+	Sapphire Ring: %Cold Damage Reduction
+	Topaz Ring: %Lightning Damage Reduction
+	Ruby Ring: %Fire Damage Reduction
+	Diamond Ring: %Critical Chance
+	Gold Ring: %Magic Find
+	Twostone Ring: %Damage Reduction for 2 elements
+	Amethyst Ring: %Poison Damage Reduction
+	Prismatic Ring: %Elemental Damage Reduction
+	Opal Ring: %Elemental Damage
+	Steel Ring: Higher flat Physical damage
+	Golden Hoop: flat All attributes
+	Jet Ring: %All Armor
+
+	Tourmaline Ring: %Physical Damage Reduction
+	Silver Ring: %Gold Find
+
+Rings II
+	Bone Ring: %All Damage
+	Garnet Ring: + flat HP on Hit
+	Gold Ring: %Gold Find
+	Opal Ring: + flat Mana on hit
+	Silver Ring: %Critical Chance
+
+Flasks - see flasks.txt
+
+Socketables - see socketables.txt
+
+Helmets:
+	Golden Wreath: flat All Attributes
+	Bone Helmet: %Minion Damage
+	Holy Crown: flat All Attributes
+	Knight Helm: %Attack Speed
+	Radiant Crest: %Magic Find
+
+Body Armor:
+	Weighted Armor: - %Move Speed, + %XP Gain
+	Reinforced Armor: - %Move Speed, + %XP Gain
+	Astral Plate: %Elemental Damage Reduction
+	Assassin's Garb: %Move Speed
+	Occultist Vestments: %Magic Item Damage
+	Carnal Armor: flat Mana
+	Golden  Frame: %Magic Damage Reduction
+	Saintly Plate: %Magic Armor
+	Sacred Armor: %Physical Damage Reduction
+	Macabre Wraps: %Move Speed
+	Exoskeleton: %Physical Armor
+	Archon Plate: %Mana Regen
+	Shadow Plate: %Block
+	Lacquered Plate: %Missile Reflect
+	Barbed Carapace: %Physical Thorns
+	Hellforge Plate: flat Fire Damage
+	Great Hauberk: + flat Life
+	Loricated Mail: %Dodge Shred
+	Wyrmhide: %Stun Resistance
+	Dusk Shroud: + flat Magic armor, + flat Elemental Armor
+
+Boots:
+	Two-toned Boots: %Damage Reduction for 2 elements
+	Golden Calligae: %Elemental Damage Reduction
+	Thief Shoes: %Move Speed
+
+Gloves:
+	Spiked Gloves: %Martial item Damage
+	Gripped Gloves: %Ranged item Damage
+	Fingerless Silk Gloves: %Magic item Damage
+	Golden Bracers: + flat HP
+	Armguards: %Attack Speed
+	Maiden Gloves: %Damage
+
+Shields
+	Normal Shields:
+		Tower Shield: + flat HP
+		Buckler: %Move Speed
+		Spirit Shield: %Magic Item Damage
+		Round Shield: %Block
+		Kite Shield: %Elemental Damage Reduction
+		Spiked Shield: %Dodge
+		Heraldic Shield: %Damage, %Dodge Shred
+		Aerin Shield: %Elemental Armor
+		Thorn Shield: %Physical Thorns
+	Orbs:
+		Shrunken Head: %Poison Damage, %Poison Chance
+		Eagle Orb: +flat HP
+		Smoked Sphere: + flat MP
+		Clasped Orb: + flat Elemental Damage
+		Burning Stone: %Fire Damage, %Fire Shred
+		Charged Stone: %Lightning Damage, %Lightning Shred
+		Frozen Stone: %Cold Damage, %Cold Shred
+		Toxic Stone: %Poison Damage, %Poison Shred
+		Arcane Stone %Cast Speed
+
+Shoulders:
+	Golden Mantle: %Elemental Damage Reduction
+	Umbral Cloak: %Dodge
+	Treated Cloak: %Missile Reflect
+	Krakenhide Shawl: %Cold Armor, %Cold Damage Reduction
+	Balrogskin Wraps: %Fire Armor, %Fire Damage Reduction
+	Diamond-laced Veil: %Lightning Armor, %Lightning Damage Reduction
+	Scarab Cloak: %Poison Armor, %Poison Damage Reduction
+	Boneweave Shawl: %Physical Armor, %Physical Damage Reduction
+
+Belts:
+	Golden Obi: %Magic Find
+	Chain Belt: + flat Mana
+	Rustic Sash: %Physical Damage Reduction
+	Heavy Belt: + flat Strength
+	Leather Belt: + flat Life
+	Cloth Belt: %Block
+	Studded Belt: %Stun Resistance
+	Vanguard Belt: %Physical Damage Reduction
+	Crystal Belt: %Mana
+
+Maces:
+	1H:
+		Club: %Interrupt Chance
+		Hammer: %Attack Speed
+		Feral Club: %Health Shred
+
+	Sceptres (1H):
+		Sceptre: %Elemental Damage
+		Rod: %Elemental Armor Shred
+		War Sceptre: + flat Magic Armor Shred
+		Moon Scepter: %Cast Speed
+
+	2H:
+		Maul: %Stun Chance
+		Mallet: Knockback on hit
+		Meatgrinder: %Chance to deal a burst of extra Physical damage on hit
+		Piledriver: %Strength
+
+Axes:
+	1H:
+		Hatchet: %Physical Damage
+		Handaxe: %Critical Chance
+		Axe: None (High base Damage)
+
+	2H:
+		Barbarian Axe: + flat Strength
+		Poleaxe: %Critical Damage
+		Doubleaxe: %Move Speed Shred
+		
+Swords:
+	2H Slashing
+		Longsword: %Dodge Shred
+		Katana: %Critical Chance
+		Greatsword: flat Strength
+
+	1H Piercing:
+		Spike: %Critical Damage
+		Rapier: %Critical Chance
+		Foil: %Chance to inflict Physical DoT
+
+	1H Slashing:
+		Sword: %Execute Chance
+		Cutlass: %Fumble Chance Reduction
+		Gladius: %Fumble Penalty Reduction
+		Sabre: %Dodge Shred
+		Hook Blade: %Dodge
+
+	Dagger (1H):
+		Dagger: %Critical Chance
+		Sai: %Block
+		Stiletto: %Cast Speed
+
+Bows:
+	Royal Bow: %Elemental Damage
+	Recurve Bow: %Critical Chance
+	Deathly Bow: %Critical Damage
+	Reflex Bow: %Move Speed
+
+Claws:
+	Vital Claw: + flat HP steal
+	Arcane Claw: flat Mana Steel
+	Dual Claw: + flat HP/Mana steal
+
+	Vital Paw: %Life Steal
+	Arcane Paw: %Mana Steal
+	Dual Paw: %Mana Steal, %HP Steal
+
+Staves:
+	Branch: %Chance to gain an Absorb shield on being hit
+	Battlestaff: flat Physical Armor
+	Monk's Spade: %Critical Chance
+	Totemic Staff: %XP Gain
+	Wild Staff: %Attack Speed
+	Short Staff: %Health Shred
+	Battle Staff: %Physical Armor Shred
+
+Wands:
+	Wand: %Magic Item Damage
+	Horn: %Cast Speed
+	Bone Wand: + flat Magic Damage
+
+Polearms:
+	Amazon Spear: %Physical Armor Shred
+
+Crossbows:
+	Arbalest: %Health Shred

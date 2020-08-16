@@ -1,5 +1,6 @@
 (DR: Damage Reduction)
 (DoT: Damage over Time)
+(Bleed: Physical DoT)
 
 Fortify: + %All DR
 Onslaught: + %Attack/%Cast/%Move Speed
@@ -21,4 +22,181 @@ Anger: + Flat Fire Damage Aura
 Clarity: + Flat Mana/s Aura
 Determination: + %Physical Armor Aura
 Grace: + %Dodge Aura
-
+Haste: + %Attack/%Cast/%Move Speed Aura
+Hatred: + %Physical Damage as Cold Damage Aura
+Precision: + %Critical Chance Aura
+Pride: + %Physical Damage Taken Aura (Applies to Enemies)
+Purity of Elements: + %Elemental DR Aura
+Purity of Fire: + %Fire DR Aura
+Purity of Ice: + %Cold DR Aura
+Purity of Lightning: + %Lightning DR Aura
+Vitality: + %HP/s Aura
+Wrath: + Flat Lightning Damage Aura
+Vaal Clarity: - %Mana Cost Aura
+Envy: + Flat Poison Damage Aura
+Maimed: - %Move Speed
+Intimidated: + %Physical Damage Taken
+Ashen: - %Move Speed, + %Fire Damage Taken
+Elemental Adaptation: + %Elemental Damage as %Elemental Armor
+Elemental Evolution: + Flat Elemental Damage as Flat Elemental Armor
+Elemental Volatility: + Flat Elemental Damage as Flat Elemental Armor Shred
+Elemental Maelstrom: + %Elemental Damage as %Elemental Shred
+Enrage: + %All Damage, %Attack Speed
+Diamond Skin: + %All DR
+Empower: +All Skills
+Conduction: + %Lightning Damage, %Lightning Armor Shred, %Cast Speed
+Avalanche: + %Cold Damage, %Cold Armor Shred, %Attack Speed
+Wildfire: + %Fire Damage, %Fire Armor Shred, %Move Speed
+Brutality: + %Critical Damage, %Stun Chance
+Purity: + %Elemental Armor, %Elemental DR
+Corruption: + %Poison Damage, %Poison Armor Shred, %Poison Chance
+Finesse: + %Critical Chance, %Critical Damage
+Grace: + %Dodge Chance, %Dodge Chance Shred
+Aegis: + %Block Chance, %Stun/Interrupt Resist
+Blood Rage: + %HP Stolen, %Physical Damage
+Good Fortune: + %Magic Find, %Gold Find
+Quickened: + %Attack/%Move/%Cast Speed
+Poached: - %Dodge Chance, Grant Life/Mana to attacker on hit
+Conductivity: - Flat Lightning Armor, %Lightning Armor
+Despair: - Flat Poison Armor, %Poison Armor
+Elemental Weakness: - %Elemental Damage Reduction
+Enfeeble: - %All Damage, %Critical Chance, %Critical Damage
+Flammability: - Flat Fire Armor, %Fire Armor
+Frostbite: - Flat Cold Armor, %Cold Armor
+Vulnerability: + %Physical Damage Taken, Chance to inflict self with Bleed/Maim
+	on being hit
+Warlord's Mark: - %Block Chance, %Stun/Interrupt Resist
+Charge Dynamo: - flat HP/s, gain Endurance/Frenzy/Power Charges
+Distilled Wisdom: + flat HP/s, Mana/s, %Magic/%Gold Find
+Manaburn: - flat Mana/s
+Manavoid: - %Mana/s
+Hemorraghe: - %HP/s
+Insight: - %Mana cost
+Madness: + %Mana cost
+Adrenaline: + %All Damage, %Attack/Cast/Move Speed, %Physical Damage Reduction
+Arcane Surge: + %Elemental Damage, %Cast Speed, %Mana/s
+Frozen Aegis: Cold Absorb Shield, regenerates after a period of not being struck
+Arcane Intellect: + %Mana, - %Attribute Requirements
+Dark Blessing: - %HP, + %Magic/Gold Find
+Efficacious Casting: - %Mana Cost, %Cast Speed
+Bloodwell: - flat HP/s, heal on going below a threshold
+Surging Power: + %Mana Cost, %Elemental Damage
+Ablative Armor: + %All Armor, lost on taking damage; regained after a period
+Arctic Armour: %Cold & Fire Damage, inflict Chill on attackers
+All In: + %All Damage Dealt, + %All Damage Taken
+Pyrosian Herald: - %Mana, + %Fire Damage, Fire AoE on striking an enemy
+Overlord: - %Minion Life, + %Minion Damage/Speed
+Fae Grace: + %Minion Life/Damage/Speed
+Suppression: - %Attack Speed/%Cast Speed
+Damnation: - %HP, + %Fire Damage, flat Magic Damage
+Spun Web: - %Move Speed, + %All Damage Taken
+Epiphany: Next Skill costs 0 Mana
+Chain Cast: - %Skill Mana Cast, + %Cast Speed
+Manaforged: %Mana as %HP
+Hemotheurge: %HP as %Mana
+Void Infusion: %Flat Physical Damage as Flat Magic Damage
+Overflowing Mana: %Mana as - %Skill Mana Cost
+Evasiveness: %Dodge as %Elemental Damage Reduction
+Steel Colossus: + %Armor, - %Skill Mana Cost
+Runic Imbuement: %Flat Focus as %Physical Damage
+Mana Ward: + flat All Armor, flat Mana loss on hit
+Eldritch Knight: %Flat Strength as %Elemental Damage
+Solid Stancec: + %Block, - %Dodge
+Bloodlust: - flat HP per second, + flat HP Stolen
+Fortified Armor: %Elemental Armor as %Elemental DR
+Polished Armor: + %Missile Reflect, - %Lightning DR
+Parry: %All Damage on Block
+Riposte: On block, Guarantee Crit on Next Attack
+Concentrated Blood: - %HP, + %HP per Second
+Concentrate Mind: - %Mana, + %Mana per Second
+Soul Dynamo: - %Mana, + %HP per Second
+Vitae Draw: - %HP, + %Mana per Second
+Manashield: - %Mana, - flat Mana, %flat Mana as an absorb shield; refreshes after a period of not being struck
+Bloody Carapace: - HP, - flat Hp, %flat HP as an absorb shield; refreshes after a period of not being struck
+Avernian Flame: % of flat Ice Damage/Armor as flat Fire Damage/Armor
+Nessian Ice: % of flat Fire Damage/Armor as flat Ice uamage/Armor
+Brute Force: % flat Strength as flat Dexterity
+Holding Back: -% Damage Dealt, +% Experience Gain
+Overkill: + % Damage Dealt, - % Experience Gain 
+Materialism: - % Experience Gain, + % Magic/Gold Find
+Ascetism: + %Experience Gain, -% Magic/Gold Find
+Wealth of Experience: +%Experience Gain as %Gold Find
+Crimson Sacrament: + %Mana on Kill, -%Health on Kill
+Black Truth: + %All Damage, + %Skill Mana Cost
+Windfury: %Chance to deal an additional hit (100% WDPS)
+Devestator: + %Critical Damage, %Chance to deal extra damage on a critical
+Chiurgy: flat HP gain on being hit
+Static Shock: AoE Lightning Damage on killing a Shocked Enemy
+Rooted: - %Move Speed, + %All Damage Resist, + %Pull Resist
+Steadfast: - %Movespeed, + %Slow/Stun Resist
+Lightfoot: + %Move Speed, - %Pull Resist
+Soulsup: Gain temporary flat max HP/Mana on kill
+Etherdrive: - %HP/s, + %Minion/Self Move Speed/All Damage
+Thermoinversion: Fire AoE on striking frozen target, Ice AoE on striking burning target
+Gravechill: - %Move Speed, + %Ice Armor/Damage
+Incitement: + %Minion/Player Move Speed/All Damage on kill
+Inscribed Armor: %Elemental DR as %Elemental Armor
+Communal Bond: - %Player Damage, + %Minion Damage
+Bloodwrath: - flat HP/s, + %Attack Speed, + %HP stolen
+Vengeance: On hit, gain %Shield Armor (modified by %Block) as flat phys. damage
+Emberheart: %Flat Strength as %Elemental Damage
+Netherim Investiture:- %Skill Mana Cost, - flat HP on striking a target with a skill
+Archon Blood: + %Move Speed/Damage while at 100% Charge
+Brutal Physique: + %Flat Strength as %Physical Damage/Armor, - %Elemental Damage/Armor
+Iron Grip: + %Flat Strength as %Ranged Weapon Damage
+Fitted Armor: + %Move Speed, + %Physical Armor
+Titan's Grip: %Flat Strength as %Physical Damage while wielding 2H Weapons
+Shield Bash: %Block as %Physical Damage 
+Reprisal: + %All Damage on Being Struck
+Dark Bargain: - %HP, + %All Damage
+Slow Burn: - %Fire Damage, inflict Fire DoT on striking an enemy
+Atrophy: - %HP, - %Physical Damage
+Feebleminded: - %Mana, - %Elemental Damage
+Soulsear: - %All Attributes
+Surgeon's Grace: - %Critical Chance, + %Critical Damage
+Abyssal Pact: + %Damage Dealt while over 50% HP, + %Damage Taken while under 50% HP
+Elemental Wellspring: + %Elemental Damage while above 75% HP
+Warpath: %Critical Damage as %Move Speed
+Righteous Crusade: + flat HP and flat Strength on striking a target
+Unholy Blight: Poison DoT, - %Physical Damage
+Deathfrost: Ice DoT, - %Cast/Attack Speed
+Spellflurry: + %Cast Speed on Skill Use
+Bladeward: + %Block, gain + %Physical Thorns on being struck
+Devotion of Pyros: + %Fire Damage/Armor, - %Other Elemental Damage/Armor
+Bloodsteel Rampart: %HP gain on block, %Mana loss on block
+Mistwall: Max %Block if you haven't blocked recently, + %Dodge if you have
+Glacian Carapace: %Shield Armor as %Cold Armor
+Finesse: %Strength as %Critical Chance/Damage
+Leytap: %HP gain on Skill Cast
+Steadfast Shield: %Shield Armor as %Block
+Relentless Assault: + %Attack Speed, + flat Physical Damage on striking an enemy
+Preemption: -%All Damage Taken while above 80% HP
+Deadly Strikes: %Critical Damage as flat Physical Damage
+Open Wounds: Physical DoT, - flat Physical Armor
+Crushed: - %HP, - %Move Speed
+Phalanx: Block attacks to augment item
+Enrage: Deal critical hits to augment item
+Evasive: Dodge attacks to augment item
+Executioner: Perform executes to augment
+Sighting In: Fumble attacks to augment
+Martial Training: Strike enemies to augment
+Souleater: Kill enemies to augment
+Ignition: Gain charge from zero to augment
+Turbine: Use charges to augment
+Zen: Deplete charge to augment
+Dynamo: Gain charge to augment
+Reflective Coating: %Block as %Missile Reflect
+Shield Brace: flat Strength on blocking a hit
+Stronghand: %Flat Strength as %Block
+Ruinous Power: + %Physical Damage, - %Move Speed
+Blessing of Achilles: + %All Damage reduction, chance to take magic damage on being struck
+Overpower: Reduce block chance on striking an enemy
+Arcane Genius: %Focus as %Elemental Damage
+Hawkeye: + Ranged Weapon Range, + %Ranged Weapon Damage
+Careful Aim: %Focus as %Ranged Weapon Damage
+Expose Weakness: %Dexterity as %Ranged Weapon Damage
+Arcane Fortitude: %Focus as %Physical Armor
+Ignition: Inflict a Fire DoT on a critical strike
+Sheath of Light: %Focus as %Melee Weapon Damage
+Alpha Strike: Gain %Critical Chance on striking an enemy if haven't been hit recently
+Swashbuckler: Melee Strikes give Ranged Damage, Ranged Strikes give Melee Damage

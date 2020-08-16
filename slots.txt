@@ -1,0 +1,131 @@
+Torchlight II slots
+	1x Head
+	1x Neck
+	2x Ring
+	1x Body
+	1x Leg
+	1x Feet
+	1x Hands
+	1x Shoulders
+	1x Waist
+
+	Pet Slots
+		2x Tags
+		1x Collar
+
+Slot Set I:
+	Head
+	Face
+	Body
+	3 non-ring jewelry items
+	Underclothing
+	Arms
+	Hands
+	2 rings
+	Waist
+	Legs
+	Feet
+	(Maybe more Rings)
+
+Slot Set III:
+	Head
+	Neck
+	2 Arms
+	2 Hands
+	Body
+	Waist
+	2 Legs
+	Feet
+
+Socket Slots:
+	Feet
+	Hands
+	Visor
+	Back
+	Helm
+	Utility
+	Arms
+	Shielding
+	Support
+	Core
+
+	Energy Emitter
+
+Veil Slots:
+	Head
+	Face
+	Hands
+	Arms
+	Feet
+	Shoulders
+	Torso
+	Waist
+	Body
+
+	2 Fingers
+
+Chakra Slots:
+	Crown
+	Brow
+	Hands
+	Arms
+	Feet
+	Throat
+	Shoulder
+	Heart
+	Waist
+	Soul
+
+	Totem
+
+Misc. Slots I:
+	Head
+	Back
+	Neck
+	Eye
+	Trinket
+	Chest
+	Back
+	Wrist
+	Finger
+	Feet
+	Hand
+
+Misc Slots II:
+	Head
+	Back
+	Neck
+	Ammo
+	Torso
+	Legs
+	Hands
+	Feet
+	Ring
+	Aura
+	Pocket
+	Sigil
+
+Misc Slots III:
+	Head
+	Chest
+	Shoulders
+	Forearms
+	Hands
+	Legs
+	Feet
+	2 Fingers
+	2 Ears
+	Neck
+	2 Wrists
+	Waist
+	Cloak
+	2 Charms
+
+Composite Bits
+	Armor: Arm, Leg
+	1H Melee: Grip, Haft
+	2H Melee, Grip, Haft, Pommel
+	Bow: Hand Grip
+	Polearm: Shaft, Blade
+	Weapon: Rune
+	Crossbow: Bowlimb, Sight

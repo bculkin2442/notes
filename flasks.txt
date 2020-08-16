@@ -1,0 +1,225 @@
+Flask, Draught, Carafe, Vial, Ampoule - Common Potions
+Grail, Chalice, Font, Goblet - Magic Potions
+
+(Flask, Draught and Carafe are normal potions)
+(Vial and Ampoule are 'lesser' potions)
+(Chalice is Vial + Flask)
+(Grail is Vial + Draught)
+(Goblet is Ampoule + Draught)
+(Font is extended Vial)
+(Monstrance is extended Ampoule)
+
+Life:
+	Life Flask: flat HP over time
+	Life Draught: %HP over time
+	Life Vial: flat HP at once
+	Grail of Life: flat HP at once, %HP over time
+	Chalice of Life: flat HP at once, flat HP over time
+	Font of Life: flat HP over extended time
+
+Mana:
+	Mana Flask: flat Mana over time
+	Mana Draught: %Mana over time
+	Mana Vial: flat Mana at once
+	Chalice of Mana: flat Mana at once, flat Mana over time
+	Grail of Mana: flat Mana at once, flat Mana over time
+	Font of Mana: flat Mana over extended time
+
+Rejuvination
+	Rejuvinating Flask: flat HP/Mana over time
+	Rejuvinating Draught: % HP/Mana over time
+	Rejuvinating Vial: flat HP/Mana at once
+	Chalice of Rejuvination: flat HP/Mana at once, flat HP/Mana over time
+	Grail of Rejuvination: flat HP/Mana at once; % HP/Mana over time
+	Font of Rejuvination: flat HP/Mana over extended time
+
+Bottomless Flask/Draught: 999 uses
+
+Quicksilver
+	Flask: %Attack Speed
+	Draught: %Cast Speed
+	Vial: %Move Speed
+	Chalice: %Attack Speed, %Move Speed
+	Grail: %Cast Speed, %Move Speed
+	Font: %Move Speed over extended time
+
+Bismuth
+	Flask: %Elemental Armor
+	Draught: %Elemental Damage Reduction
+	Vial: flat Elemental Armor
+	Chalice: flat Elemental Armor, %Elemental Armor
+	Font: flat Elemental Armor over extended time
+
+Stibnite
+	Flask: %Dodge
+
+Amethyst
+	Flask: %Poison Armor
+	Draught: %Poison Damage Reduction
+	Vial: flat Poison Armor
+	Chalice: flat Poison Armor, %Poison Armor
+	Grail: flat Poison Armor, %Poison Damage Reduction
+	Font: flat Poison Armor over extended time
+
+Ruby
+	Flask: %Fire Armor
+	Draught: %Fire Damage Reduction
+	Vial: flat Fire Armor
+	Chalice: flat Fire Armor, %Fire Armor
+	Grail: flat Fire Armor, %Fire Damage Reduction
+	Font: flat Fire Armor over extended time
+
+Sapphire
+	Flask: %Cold Armor
+	Draught: %Cold Damage Reduction
+	Vial: flat Cold Armor
+	Chalice: flat Cold Armor, %Cold Armor
+	Grail: flat Cold Armor, %Cold Damage Reduction
+	Font: flat Cold Armor over extended time
+
+Topaz
+	Flask: %Lightning Armor
+	Draught: %Lightning Damage Reduction
+	Vial: flat Lightning Armor
+	Chalice: flat Lightning Armor, %Lightning Armor
+	Grail: flat Lightning Armor, %Lightning Damage Reduction
+	Font: flat Lightning Armor over extended time
+
+Silver
+	Flask: Onslaught: %Attack/Cast/Move Speed
+
+Granite
+	Flask: %Physical Armor
+	Draught: %Physical Damage Reduction
+	Vial: flat Physical Armor
+	Chalice: flat Physical Armor, %Physical Armor
+	Grail: flat Physical Armor, %Physical Damage Reduction
+	Font: flat Physical Armor over extended time
+
+Sulphur
+	Flask: %All Damage
+	Draught: %All Thorns
+	Vial: flat All Damage
+	Ampoule: flat All Thorns
+	Chalice: flat All Damage, %All Damage
+	Goblet: flat Physical Damage, %Physical Thorns
+	Font: flat All Damage over extended time
+	Monstrance: flat All Thorns over extended time
+
+Basalt
+	Flask: %Physical Damage
+	Draught: %Physical Thorns
+	Vial: flat Physical Damage
+	Ampoule: flat Physical Thorns
+	Chalice: flat Physical Damage, %Physical Damage
+	Goblet: flat Physical Thorns, %Physical Thorns
+	Font: flat Physical Damage over extended time
+	Monstrance: flat Physical Thorns over extended time
+
+Diamond
+	Flask: %Critical Chance
+	Draught: %Critical Damage
+
+Jade
+	Flask: %Block
+	Draught: %Missile Reflect
+
+Quartz
+	Flask: Phasing (%Dodge, %Physical Damage Reduction)
+
+Aquamarine
+	Flask: %Cold Damage
+	Draught: %Cold Thorns
+	Vial: flat Cold Damage
+	Ampoule: flat Cold Thorns
+	Chalice: flat Cold Damage, %Cold Damage
+	Goblet: flat Cold Thorns, %Cold Thorns
+	Font: flat Cold Damage over extended time
+	Monstrance: flat Cold Thorns over extended time
+
+Rose
+	Flask: %Fire Damage
+	Draught: %Fire Thorns
+	Vial: flat Fire Damage
+	Ampoule: flat Fire Thorns
+	Chalice: flat Fire Damage, %Fire Damage
+	Goblet: flat Fire Thorns, %Fire Thorns
+	Font: flat Fire Damage over extended time
+	Monstrance: flat Fire Thorns over extended time
+
+Agate
+	Flask: %Lightning Damage
+	Draught: %Lightning Thorns
+	Vial: flat Lightning Damage
+	Ampoule: flat Lightning Thorns
+	Chalice: flat Lightning Damage, %Lightning Damage
+	Goblet: flat Lightning Thorns, %Lightning Thorns
+	Font: flat Lightning Damage over extended time
+	Monstrance: flat Lightning Thorns over extended time
+
+Emerald
+	Flask: %Poison Damage
+	Draught: %Poison Thorns
+	Vial: flat Poison Damage
+	Ampoule: flat Poison Thorns
+	Chalice: flat Poison Damage, %Poison Damage
+	Goblet: flat Poison Thorns, %Poison Thorns
+
+Chalice of Patience: %HP over time, Full Heal at End
+
+Arcane:
+	Chalice: flat Mana over Time, heal on Skill Use
+	Grail: flat Mana over Time, -100% Skill Mana Cost
+		NOTE: This is only the same as 'Skills Cost no Mana' if you have no
+		+%Mana Cost effects
+
+Distilled Wisdom:
+	Flask of: flat HP/Mana over time, %Magic Find
+	Draught of: flat HP/Mana over time, %Gold Find
+	Carafe of: flat HP/Mana over time, %XP Gain
+
+Edenic Cider: large flat HP on use, -%HP over time
+
+Timelost
+	Health Draught: %HP over time, %Potion Efficency
+	Stibnite Flask: %Dodge, Unholy Might (flat Magic Damage, %Magic Damage)
+	Granite Chalice: flat Physical Armor, %Physical Armor, Knockback on Hit
+
+Flask Synonyms:
+	- Flask
+	Bottle
+	Flagon
+	Decanter
+	Canteen
+	Carafe
+	Phial
+	Carafe
+	Cask
+	Beacon
+	Gourd
+	Canister
+	- Ampoule
+	Cylinder
+	Alembic
+	Cup
+	Magnum
+	Dram
+	Libation
+	Hogshead
+	- Goblet
+	Tumbler
+	Stein
+	Shotglass
+	- Monstrance
+	Ostensorium
+	Ostensory
+	Reliquary
+	Snifter
+	Sangraal
+	Wellspring
+	Fountainhead
+	Quaich
+	- Font
+	- Vial
+	- Chalice
+	- Grail

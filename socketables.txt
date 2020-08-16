@@ -1,0 +1,67 @@
+Drakensang
+	Timelost
+		Ruby: flat All Damage
+		Onyx: %Critical Chance
+		Sapphire: %Attack Speed
+		Cyanite: flat Physical Armor
+		Diamond: flat Elemental Armor
+		Amethyst: flat HP
+
+		Peridot: - %Skill mana cost
+		Moonstone: %Critical Chance
+		Sunstone: %Critical Damage
+
+	Other
+		Insight Jewel: %XP Gain
+		Immunity Jewel: flat physical damage; %Critical Damage
+		Solstice Star: flat Mana, %HP
+		Crystal Snowflake: %HP
+		Crystal Moon: %Cold Damage Reduction
+		Fluorite Crystal: %Critical Damage
+		Solstice Crystal: %HP, %Cold Damage Reduction, %Critical Damage
+		Shadow Stone: flat HP, flat Physical Armor
+		Bloodstone: flat HP, %HP
+		Jewel of Rage: %Critical Damage, %Attack Speed
+		Onyx Skull: flat HP/s
+		Accelerating Jewel: %Move Speed
+		Equipment Fortifying Jewel: %All Armor
+		Jewel of Willpower: %Charge Rate
+
+		Solstice Moon: %Mana, flat HP
+		Solstice World: %Mana/%HP
+		Crystal Snowflake: flat Cold Armor
+		Crystal Snowball: %Cold Armor
+		Crystal Glacier: %Cold Damage Reduction
+
+		Alpha Solstice Fragment: %HP
+		Beta Solstice Fragment: %Cold Damage Reduction
+		Gamma Solstice Framgment: %Critical Damage
+	
+	Runes
+		Rune of Devestation: %Critical Damage
+		Rune of Celerity: %Attack Speed
+		Rune of Persistence: %Block Chance
+		Rune of Regeneration: %HP/s
+		Rune of Vitality: %HP
+		Rune of Vigor: %All Damage
+		Rune of Relentlessness: - %Skill mana cost
+		Rune of Acceleration: %Move Speed
+		Rune of Fortitude: %Physical Armor
+		Rune of Focus: %Charge Bonus
+		Rune of Resilience: %Elemental Armor
+		Rune of Materi Blessing: %Gold Find
+		Rune of the Wisdom Seeker: %XP Gain
+
+		Rune of Arcana: %Mana
+		Rune of Estheria: %XP Gain
+		Rune of Zephyresh: %Gold Find
+		Rune of Ezrohir: %Magic Find
+
+Misc. Other
+	Quartz Jewel: + flat All Armor
+	Scarlet Jewel: + flat All Damage
+	Olive Jewel: %Attack Speed
+	Agate Jewel: %Interrupt Resistance
+	Aquamarine Jewel: %Block Shred
+	Rose Jewel: %Cast Speed
+	Mystic Jewel: CtC Debuffs

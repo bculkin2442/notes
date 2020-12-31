@@ -50,6 +50,9 @@ Bismuth
 	Chalice: flat Elemental Armor, %Elemental Armor
 	Font: flat Elemental Armor over extended time
 
+	Tumbler: flat Elemental Absorb shield
+	Stein: flat Elemental Absorb shield, grants %Elemental Armor while up
+
 Stibnite
 	Flask: %Dodge
 
@@ -61,6 +64,9 @@ Amethyst
 	Grail: flat Poison Armor, %Poison Damage Reduction
 	Font: flat Poison Armor over extended time
 
+	Tumbler: flat Poison Absorb shield
+	Stein: flat Poison Absorb shield, grants %Poison Armor while up
+
 Ruby
 	Flask: %Fire Armor
 	Draught: %Fire Damage Reduction
@@ -68,6 +74,9 @@ Ruby
 	Chalice: flat Fire Armor, %Fire Armor
 	Grail: flat Fire Armor, %Fire Damage Reduction
 	Font: flat Fire Armor over extended time
+
+	Tumbler: flat Fire Absorb shield
+	Stein: flat Fire Absorb shield, grants %Fire Armor while up
 
 Sapphire
 	Flask: %Cold Armor
@@ -77,6 +86,9 @@ Sapphire
 	Grail: flat Cold Armor, %Cold Damage Reduction
 	Font: flat Cold Armor over extended time
 
+	Tumbler: flat Cold Absorb shield
+	Stein: flat Cold Absorb shield, grants %Cold  Armor while up
+
 Topaz
 	Flask: %Lightning Armor
 	Draught: %Lightning Damage Reduction
@@ -84,6 +96,9 @@ Topaz
 	Chalice: flat Lightning Armor, %Lightning Armor
 	Grail: flat Lightning Armor, %Lightning Damage Reduction
 	Font: flat Lightning Armor over extended time
+
+	Tumbler: flat Lightning Absorb shield
+	Stein: flat Lightning Absorb shield, grants %Lightning Armor while up
 
 Silver
 	Flask: Onslaught: %Attack/Cast/Move Speed
@@ -185,15 +200,22 @@ Timelost
 	Stibnite Flask: %Dodge, Unholy Might (flat Magic Damage, %Magic Damage)
 	Granite Chalice: flat Physical Armor, %Physical Armor, Knockback on Hit
 
+	Health Flask: %HP over time, %HP
+	Mana Flask: %Mana over time, %Mana
+	Granite Vial: flat Physical Armor, shred Physical Armor on being struck
+	Basalt Flask: %Physical Damage, flat Strength, %Character Size (if possible)
+	Quicksilver Vial: %Move Speed, 100% Stun/Knockback/Immobilize Resist
+	Health Font: flat HP over time/flat Strength for an extended amount of time
+
 Flask Synonyms:
 	- Flask
 	Bottle
-	Flagon
+	- Flagon
 	Decanter
 	Canteen
-	Carafe
+	- Carafe
 	Phial
-	Carafe
+		Too similar to 'Vial' to be used at the same time
 	Cask
 	Beacon
 	Gourd

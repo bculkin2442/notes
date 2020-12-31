@@ -16,6 +16,8 @@ Amulets I
 
 	Bloodstone Amulet: flat Vitality
 
+	Sharktooth Necklace: flat All Shred
+
 Amulets II
 	Diamond Amulet: flat All attributes
 	Jade Amulet: %Poison Damage Reduction
@@ -87,6 +89,10 @@ Helmets:
 	Knight Helm: %Attack Speed
 	Radiant Crest: %Magic Find
 
+	Blindfold: %Blind Resist
+	Morbid Mask: %Life Steal
+	Voodoo Mask: %Mana Steal
+
 Body Armor:
 	Weighted Armor: - %Move Speed, + %XP Gain
 	Reinforced Armor: - %Move Speed, + %XP Gain
@@ -108,6 +114,8 @@ Body Armor:
 	Loricated Mail: %Dodge Shred
 	Wyrmhide: %Stun Resistance
 	Dusk Shroud: + flat Magic armor, + flat Elemental Armor
+
+	Obsidian Breastplate: flat Absorb shield on being struck
 
 Boots:
 	Two-toned Boots: %Damage Reduction for 2 elements
@@ -133,6 +141,9 @@ Shields
 		Heraldic Shield: %Damage, %Dodge Shred
 		Aerin Shield: %Elemental Armor
 		Thorn Shield: %Physical Thorns
+
+		Cobalt Shield: %Knockback Resist
+
 	Orbs:
 		Shrunken Head: %Poison Damage, %Poison Chance
 		Eagle Orb: +flat HP
@@ -165,11 +176,15 @@ Belts:
 	Vanguard Belt: %Physical Damage Reduction
 	Crystal Belt: %Mana
 
+	Black Belt: %Dodge
+
 Maces:
 	1H:
 		Club: %Interrupt Chance
 		Hammer: %Attack Speed
 		Feral Club: %Health Shred
+
+		Boomhammer: Fire AoE on striking an enemy
 
 	Sceptres (1H):
 		Sceptre: %Elemental Damage
@@ -200,6 +215,9 @@ Swords:
 		Katana: %Critical Chance
 		Greatsword: flat Strength
 
+		Riteblade: On Crit, Deal Burst of Unsoaked Damage
+		Highlander Blade: %Move Speed, %Attack Speed
+
 	1H Piercing:
 		Spike: %Critical Damage
 		Rapier: %Critical Chance
@@ -217,11 +235,15 @@ Swords:
 		Sai: %Block
 		Stiletto: %Cast Speed
 
+		Hollowpoint: %Poison Chance
+
 Bows:
 	Royal Bow: %Elemental Damage
 	Recurve Bow: %Critical Chance
 	Deathly Bow: %Critical Damage
 	Reflex Bow: %Move Speed
+
+	Flashfire Bow: flat Fire Damage
 
 Claws:
 	Vital Claw: + flat HP steal
@@ -231,6 +253,9 @@ Claws:
 	Vital Paw: %Life Steal
 	Arcane Paw: %Mana Steal
 	Dual Paw: %Mana Steal, %HP Steal
+
+	Feral Claw: %Attack Speed
+	Venemous Claw: flat Poison Damage
 
 Staves:
 	Branch: %Chance to gain an Absorb shield on being hit

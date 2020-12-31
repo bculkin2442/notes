@@ -65,3 +65,5 @@ Misc. Other
 	Aquamarine Jewel: %Block Shred
 	Rose Jewel: %Cast Speed
 	Mystic Jewel: CtC Debuffs
+
+	Bezoar: flat Poison Armor, %Poison Armor, %Poison Damage Reduction
